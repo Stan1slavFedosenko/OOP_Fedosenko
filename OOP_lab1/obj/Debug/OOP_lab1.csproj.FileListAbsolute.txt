@@ -1,0 +1,8 @@
+D:\console c#\OOP_lab1\bin\Debug\OOP_lab1.exe.config
+D:\console c#\OOP_lab1\bin\Debug\OOP_lab1.exe
+D:\console c#\OOP_lab1\bin\Debug\OOP_lab1.pdb
+D:\console c#\OOP_lab1\obj\Debug\OOP_lab1.csproj.AssemblyReference.cache
+D:\console c#\OOP_lab1\obj\Debug\OOP_lab1.csproj.SuggestedBindingRedirects.cache
+D:\console c#\OOP_lab1\obj\Debug\OOP_lab1.csproj.CoreCompileInputs.cache
+D:\console c#\OOP_lab1\obj\Debug\OOP_lab1.exe
+D:\console c#\OOP_lab1\obj\Debug\OOP_lab1.pdb
